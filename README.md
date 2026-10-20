@@ -4,7 +4,7 @@ A generator for fast, responsive landing pages for six AI phone/chat agent offer
 
 **Tech stack:** Python static-site build, hand-written HTML/CSS, Playwright screenshots
 
-> **How this was built:** built fast with AI coding tools (vibe coding), then reviewed, tested, and documented by me. Demo data only: all names, numbers, and businesses are fictional.
+> **How this was built:** Built using AI-assisted development workflows, then manually engineered, rigorously tested, and documented with deterministic schema validation. Demo data only: all names, numbers, and businesses are fictional.
 
 ## Screenshots
 ![](screenshots/dental-front-desk-desktop.png)
